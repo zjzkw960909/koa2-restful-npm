@@ -1,12 +1,17 @@
 # koa2-restful
+<<<<<<< HEAD
 ## 用法：在项目目录下输入命令: restful
 ## 试用框架：koa2,koa-router
 ## 作用：会生成对应的增删改查语句的文件，文件输出一个koa-router
 
 ## 输入restful
+## 试用框架：koa2,koa-router
+## 作用：会生成对应的增删改查语句的文件，文件输出一个koa-router
+
+## example
 提示输入表名，比如输入了 'user'
 生成一个user的增删改查路由语句
-# 对应路由：
+## 对应路由：
 ## 查询语句,支持分页，返回当前页码，总页码，当前页码数据，总共数据和一页显示数量。
 get /api/user
 ## 插入语句
